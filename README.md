@@ -4,6 +4,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ## Table of contents
 - [bryce](#author)
+- [Screenshot](#screenshot)
 - [Links](#links)
 
 ## Author
@@ -19,6 +20,10 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+
+### Screenshot
+
+![Design preview for the IP address tracker coding challenge](./design/desktop-preview.jpg)
 
 ### Links
 
